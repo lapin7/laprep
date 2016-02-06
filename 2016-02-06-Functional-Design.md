@@ -39,16 +39,6 @@ Contributors
     <td>@lapin7</td>
     <td>Initial draft for review/discussion</td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
 
 
@@ -69,8 +59,32 @@ Template Guidance
 **Optional Roles:** Project Manager and Customer Project Manager 
 
 **Table of Contents**
+1. **Design Planning Summary**
+## **_Subsection Heading 2_**
+**Paragraph Heading 7**
+2. **Business Overview**
+## **_Subsection Heading 2_**
+**Paragraph Heading 7**
+3. **Overview of Design Concepts**
+## **_Visual / Graphic Design_**
+**Output**
+## **_UI Design_**
+**Output**
+## **_Content Design_**
+**Output**
+## **_Content Writing_**
+**Output**
+## **_Information architecture_**
+**Output**
+## **_User experience_**
+**Output**
+## **_Design thinking_**
+**Output**
+4. **Solution Architecture**
+## **_Subsection Heading 2_**
+**Paragraph Heading 7**
 
-[[TOC]]
+
 
 1. **Design Planning Summary**
 
