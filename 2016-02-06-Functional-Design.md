@@ -59,20 +59,20 @@ Template Guidance
 **Optional Roles:** Project Manager and Customer Project Manager 
 
 **Table of Contents**
-1. **Design Planning Summary**
-**Subsection Heading 2**
-2. **Business Overview**
-**Subsection Heading 2**
-3. **Overview of Design Concepts**
-**_Visual / Graphic Design_**
-**_UI Design_**
-**_Content Design_**
-**_Content Writing_**
-**_Information architecture_**
-**_User experience_**
-**_Design thinking_**
-4. **Solution Architecture**
-**Subsection Heading 2**
+1. **Design Planning Summary**<br>
+**Subsection Heading 2**<br>
+2. **Business Overview**<br>
+**Subsection Heading 2**<br>
+3. **Overview of Design Concepts**<br>
+**_Visual / Graphic Design_**<br>
+**_UI Design_**<br>
+**_Content Design_**<br>
+**_Content Writing_**<br>
+**_Information architecture_**<br>
+**_User experience_**<br>
+**_Design thinking_**<br>
+4. **Solution Architecture**<br>
+**Subsection Heading 2**<br>
 
 
 
