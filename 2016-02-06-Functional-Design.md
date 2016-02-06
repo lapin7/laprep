@@ -6,6 +6,18 @@ permalink: /functional-design.md/
 source-id: 1TbxRUjHw9kVgDxWVQn9YYI0QeRzcTvxFTwZpdZidXDQ
 published: true
 ---
+title: Functional Design.md
+
+layout: post
+
+author: lapin7
+
+permalink: /functional-design.md/
+
+source-id: 1TbxRUjHw9kVgDxWVQn9YYI0QeRzcTvxFTwZpdZidXDQ
+
+published: true
+
 **Functional Design Document**
 
 Prepared for
@@ -29,18 +41,28 @@ Contributors
 **Change Record**
 
 <table>
-  <tr>
-    <td>Date</td>
-    <td>Editor</td>
-    <td>Revision Notes</td>
-  </tr>
-  <tr>
-    <td>20160118</td>
-    <td>@lapin7</td>
-    <td>Initial draft for review/discussion</td>
-  </tr>
-</table>
 
+  <tr>
+
+    <td>Date</td>
+
+    <td>Editor</td>
+
+    <td>Revision Notes</td>
+
+  </tr>
+
+  <tr>
+
+    <td>20160118</td>
+
+    <td>@lapin7</td>
+
+    <td>Initial draft for review/discussion</td>
+
+  </tr>
+
+</table>
 
 Directions for Using this Template
 
@@ -52,27 +74,37 @@ Template Guidance
 
 **Description: **The Functional Design Document provides an overview of the business issue to be addressed, a mock-up of the User Interface (UI) design, and a plain English synopsis of the logic anticipated.  This document provides the customer with the opportunity to approve the high-level design before the effort is made to develop a detailed or technical design. 
 
-**Justification: **It's important that the solution design be documented and approved by the customer to avoid confusion and ensure that the customer’s needs are being met by the proposed design. 
+**Justification: **It's important that the solution design be documented and approved by the customer to avoid confusion and ensure that the customer's needs are being met by the proposed design. 
 
 **Primary Roles: **Application Consultant, Key Users
 
 **Optional Roles:** Project Manager and Customer Project Manager 
 
 **Table of Contents**
+
 1. **Design Planning Summary**<br>
+
 **Subsection Heading 2**<br>
+
 2. **Business Overview**<br>
+
 **Subsection Heading 2**<br>
+
 3. **Overview of Design Concepts**<br>
+
 **_Visual / Graphic Design_**<br>
+
 **_UI Design_**<br>
+
 **_Content Design_**<br>
+
 **_Content Writing_**<br>
+
 **_Information architecture_**<br>
+
 **_User experience_**<br>
+
 **_Design thinking_**<br>
-
-
 
 1. **Design Planning Summary**
 
@@ -159,5 +191,4 @@ A formal method for practical creative problem resolution and solution generatio
 **Output**
 
 Goals
-
 
