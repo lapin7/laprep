@@ -71,8 +71,6 @@ Template Guidance
 **_Information architecture_**<br>
 **_User experience_**<br>
 **_Design thinking_**<br>
-4. **Solution Architecture**<br>
-**Subsection Heading 2**<br>
 
 
 
@@ -156,19 +154,10 @@ UX is not just the looks, but how an end-user perceives their entire experience.
 
 ## **_Design thinking_**
 
-A formal method for practical creative problem resolution and solution generation with the intent of an improved future state, starting with a goal [a better future situation], instead of solving a specific problem. **Output**
+A formal method for practical creative problem resolution and solution generation with the intent of an improved future state, starting with a goal [a better future situation], instead of solving a specific problem. 
+
+**Output**
 
 Goals
 
-4. **Solution Architecture**
-
-[Description: The Solution Architecture section should provide an overview of how the proposed design fits into the overall solution structure.  This section should include any interactions or integrations with other solution processes or with other applications.  This section should also include any solution configuration changes that will be required to develop and implement the proposed solution.]
-
-## **_Subsection Heading 2_**
-
-Subsection text 
-
-**Paragraph Heading 7**
-
-Paragraph text
 
