@@ -60,29 +60,19 @@ Template Guidance
 
 **Table of Contents**
 1. **Design Planning Summary**
-## **_Subsection Heading 2_**
-**Paragraph Heading 7**
+**Subsection Heading 2**
 2. **Business Overview**
-## **_Subsection Heading 2_**
-**Paragraph Heading 7**
+**Subsection Heading 2**
 3. **Overview of Design Concepts**
-## **_Visual / Graphic Design_**
-**Output**
-## **_UI Design_**
-**Output**
-## **_Content Design_**
-**Output**
-## **_Content Writing_**
-**Output**
-## **_Information architecture_**
-**Output**
-## **_User experience_**
-**Output**
-## **_Design thinking_**
-**Output**
+**_Visual / Graphic Design_**
+**_UI Design_**
+**_Content Design_**
+**_Content Writing_**
+**_Information architecture_**
+**_User experience_**
+**_Design thinking_**
 4. **Solution Architecture**
-## **_Subsection Heading 2_**
-**Paragraph Heading 7**
+**Subsection Heading 2**
 
 
 
